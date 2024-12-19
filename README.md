@@ -1,7 +1,11 @@
 ## Olá! Me chamo Pedro Neto
 
-Novato no mundo da programação, iniciando estudos em C
+Completo amador no mundo da programação
+
 <div>
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<i class="devicon-c-plain colorido "></i>
+<a herf="https://instagram.com/oedroneto_" target="_blank><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+target="_blank"></a> 
 </div>
+
+
+
